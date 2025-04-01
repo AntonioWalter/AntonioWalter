@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced programming concepts and software development methodologies.
 - 👀 I’m interested in software development, web development, artificial intelligence, and startup in tech world.
 - 💬 Ask me about C, Java, SQL and databases.
-- 📫 How to reach me: [Your Email](mailto:defuscoantoniowalter@gmail.com)
+- 📫 How to reach me: [Mail](mailto:defuscoantoniowalter@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡⚡ Fun fact: I love participating in tech projects that can have a positive impact.
 
