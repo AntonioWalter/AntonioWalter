@@ -18,7 +18,7 @@
 - **[VerIta](https://github.com/GrandeVx/verITA):** I developed a Security and Traceability System for Made in Italy products with my university team, achieving second place at the "Made in Italy Innovation Challenge" hackathon organized by the State Mint and Codemotion, which had over 40 participants. The project addresses the issue of product authenticity and traceability by using RFID technology. Each product is equipped with a unique RFID tag, allowing consumers to verify authenticity through a web app. Additionally, we developed a platform for companies to upload and manage their products. This system enhances consumer trust and protects Italian manufacturers from counterfeit products.
 
 ## Education
-- Bachelor's degree in Computer Science, University of Salerno (Expected graduation: 2025)
+- Bachelor's degree in Computer Science, University of Salerno (Expected graduation: 2026)
 
 ## Goals
 - Collaborate with other developers on exciting projects with a positive impact.
